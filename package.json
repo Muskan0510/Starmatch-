@@ -52,6 +52,7 @@
     "style-loader": "^1.2.1",
     "webpack": "4",
     "webpack-chunk-hash": "^0.6.0",
+    "react-test-renderer": "^16.8.1",
     "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
